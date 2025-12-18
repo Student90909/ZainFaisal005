@@ -1,4 +1,4 @@
-# 💻 Zain Faisal | Data Science & Machine Learning Engineer
+# 💻 AI Engineer | Data Science & Machine Learning Engineer
 
 ```python
 class DataScientist:
